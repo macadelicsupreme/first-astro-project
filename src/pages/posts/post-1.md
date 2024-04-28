@@ -1,10 +1,6 @@
 ---
-title: My First Blog Post
-author: MacadelicSupreme
-description: This is the first post of my new Astro blog.
-image:
-    url: "https://docs.astro.build/assets/full-logo-light.png"
-    alt: "The full Astro logo."
+layout: ../../layouts/MarkdownPostLayout.astro
+title: 'My First Blog Post'
 pubDate: 2024-03-13
 tags: ["astro", "blogging", "learning in public"]
 ---
