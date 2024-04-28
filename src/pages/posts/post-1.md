@@ -6,18 +6,18 @@ tags: ["astro", "blogging", "learning in public"]
 ---
  # My First Blog Post
 
-Published on: 2024-03-13 
+Published on: 2024-03-13l
 
-Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
+welcome to my _new blog_ about learning astro! here, i will share my learning journey as i build a new website.
 
-## What I've accomplished
+## what i've accomplished
 
-1. **Installing Astro**: First, I created a new Astro project and set up my online accounts.
+1. **installing astro**: first, i created a new astro project and set up my online accounts.
 
-2. **Making Pages**: I then learned how to make pages by creating new `.astro` files and placing them in the `src/pages/` folder.
+2. **making pages**: i then learned how to make pages by creating new `.astro` files and placing them in the `src/pages/` folder.
 
-3. **Making Blog Posts**: This is my first blog post! I now have Astro pages and Markdown posts!
+3. **making blog posts**: this is my first blog post! i now have astro pages and markdown posts!
 
-## What's next
+## what's next
 
-I will finish the Astro tutorial, and then keep adding more posts. Watch this space for more to come.
+i will finish the Astro tutorial, and then keep adding more posts. Watch this space for more to come.
