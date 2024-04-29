@@ -2,13 +2,16 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'My First Blog Post'
 pubDate: 2024-03-13
+image:
+    url: 'https://docs.astro.build/assets/full-logo-light.png'
+    alt: 'The full Astro logo.'
 tags: ["astro", "blogging", "learning in public"]
 ---
  # My First Blog Post
 
 Published on: 2024-03-13l
 
-welcome to my _new blog_ about learning astro! here, i will share my learning journey as i build a new website.
+Welcome to my _new blog_ about learning astro! Here, i will share my learning journey as i build a new website.
 
 ## what i've accomplished
 
@@ -20,4 +23,4 @@ welcome to my _new blog_ about learning astro! here, i will share my learning jo
 
 ## what's next
 
-i will finish the Astro tutorial, and then keep adding more posts. Watch this space for more to come.
+i will finish the Astro tutorial, and then keep adding more posts. The goal is to customize a functional blog website that I can use to get better at developing.
